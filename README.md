@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 Linguagens:
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-  <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" width="40" height="40"/>
+  <img src=" https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg" width="40" height="40"/>
 </div>
 
 
