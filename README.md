@@ -9,5 +9,5 @@ Orlando-Paulo99/Orlando-Paulo99 is a ✨ special ✨ repository because its `REA
 You can click the Preview link to take a look at your changes.
 --->
 <div>
-  <a href="https://mail.google.com/mail/u/0/#inbox"></a>
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
