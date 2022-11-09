@@ -10,6 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 #Contatos
 <div>
-
-  <a href="orlandopaulo817@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href=">
+  <a href="https://mail.google.com/mail/u/0/#inbox"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
