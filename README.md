@@ -7,7 +7,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
 ### About me
-I'm a Desenvolvedor  {Fronte-end e Backend} .
+I'm a Desenvolvedor  {Fronte-end e Backend(Python ,JavaScript e Mysql} .
 
 - 
 - .
