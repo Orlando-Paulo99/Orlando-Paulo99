@@ -4,8 +4,8 @@
 
 
 ### About me
-I'm a Desenvolvedor  {Fronte-end e Backend(Python ,JavaScript e Mysql} .
+I'm a Desenvolvedor Web
 
 - 
-- .
-- t.
+- 
+- 
