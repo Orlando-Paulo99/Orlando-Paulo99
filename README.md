@@ -5,7 +5,7 @@ Uma paixão por tecnologia e inovação onde estou trilhando caminho maravilhoso
 Atualmente estou graduando Engenharia de Software na UNIFAVIP (wyden) e buscando me aperfeiçoar cada mais mais realizando cursos extras  criando projetos pessoais para me aperfeiçoar cada vez mais.
 
 
-🔭 Atualmente estou trabalhando em Call center.
+🔭 Atualmente estou estagiando como Suporte ao Cliente utilizando o wordpress.
 - 🌱 Atualmente estou aprendendo Desenvolvimento Web
 - 👯 Estou procurando colaborar em Hackaton e projetos vonluntarios
 - 📫 Como entrar em contato comigo:
