@@ -3,7 +3,6 @@
 💡 Gosto de resolver problemas complexos com soluções criativas e práticas, unindo código limpo e boa usabilidade.
 <br><br>
 
-🚀 Tecnologias que uso: HTML, CSS, JavaScript, WordPress, MySQL e Supabase.
+🚀 HTML, CSS, JavaScript, WordPress, MySQL e Supabase.
 <br><br>
 
-📚 Estou sempre aprendendo algo novo e aprimorando minhas habilidades para contribuir com a comunidade e entregar projetos cada vez melhores.
