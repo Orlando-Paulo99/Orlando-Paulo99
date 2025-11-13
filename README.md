@@ -3,6 +3,6 @@
 💡 Gosto de resolver problemas complexos com soluções criativas e práticas, unindo código limpo e boa usabilidade.
 <br><br>
 
-🚀 HTML, CSS, JavaScript, WordPress, MySQL e Supabase.
+🚀 Python,HTML, CSS, JavaScript, WordPress, MySQL e Supabase.
 <br><br>
 
